@@ -1,0 +1,26 @@
+{
+  "name": "salomon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisaelC02/Salomon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisaelC02/Salomon/issues"
+  },
+  "homepage": "https://github.com/MisaelC02/Salomon#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "sessions": "^0.0.2-7"
+  }
+}
